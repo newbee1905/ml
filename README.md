@@ -13,7 +13,7 @@ This is my list of ML related projects I have done.
 
 ## Reinforcement Learrning
 
-- [Bird Species Classification](https://github.com/newbee1905/trafficFlowPrediction/): Predict flow of traffic using LSTM, GRU, SAEs, CNN and Prophet
+- [Bird Species Classification](https://github.com/newbee1905/bird_species_classification/): Using NTS-Net and Transfer Learning with ResNet50 for dataset CUB-200-2011
 
 ## Others
 
